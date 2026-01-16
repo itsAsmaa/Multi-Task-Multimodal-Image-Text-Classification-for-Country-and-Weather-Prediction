@@ -189,8 +189,3 @@ Department of Electrical & Computer Engineering
 Birzeit University
 
 
-
-
-
-Just tell me.
-
