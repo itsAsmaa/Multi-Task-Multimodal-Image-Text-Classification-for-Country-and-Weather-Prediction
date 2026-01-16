@@ -1,0 +1,2 @@
+# Multi-Task-Multimodal-Image-Text-Classification-for-Country-and-Weather-Prediction
+The project consolidates and cleans data collected from 100+ students, performs extensive exploratory data analysis, and evaluates image-based, text-based, and multimodal classification approaches. Image models leverage transfer learning with CNNs (EfficientNet-B0), while text models use TF-IDF features with classical machine learning classifiers.
