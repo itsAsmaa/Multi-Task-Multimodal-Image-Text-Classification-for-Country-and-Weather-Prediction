@@ -182,10 +182,14 @@ MyDrive/Assignment3_ENCS5341/images/
 
 ## 11. Authors
 
-* **Asma’a Abdalrahman Shejaeya** — Student ID: 1210084
-* **Khaled Azmi Rimawi** — Student ID: 1210618
+* **Asma’a Abdalrahman Shejaeya** — Student ID: 1210084  
+  GitHub: https://github.com/AsmaaShejaeya
 
-Department of Electrical & Computer Engineering
+* **Khaled Azmi Rimawi** — Student ID: 1210618  
+  GitHub: https://github.com/KhaledRimawi
+
+Department of Electrical & Computer Engineering  
 Birzeit University
+
 
 
